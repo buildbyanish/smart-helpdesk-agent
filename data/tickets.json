@@ -1,0 +1,32 @@
+[
+  {
+    "ticket_id": "HD-1001",
+    "category": "Hardware",
+    "summary": "My laptop is not working. Please create an IT helpdesk ticket."
+  },
+  {
+    "ticket_id": "HD-1002",
+    "category": "Hardware",
+    "summary": "Please create an IT helpdesk ticket because my laptop is not working."
+  },
+  {
+    "ticket_id": "HD-1003",
+    "category": "Hardware",
+    "summary": "Please create an IT helpdesk ticket because my laptop is not working."
+  },
+  {
+    "ticket_id": "HD-1004",
+    "category": "Hardware",
+    "summary": "Please create an IT helpdesk ticket because my laptop is not working."
+  },
+  {
+    "ticket_id": "HD-1005",
+    "category": "Hardware",
+    "summary": "My laptop is not working. Please create an IT helpdesk ticket."
+  },
+  {
+    "ticket_id": "HD-1006",
+    "category": "Hardware",
+    "summary": "My laptop is not working. Please create an IT helpdesk ticket."
+  }
+]
